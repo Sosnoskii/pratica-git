@@ -10,7 +10,7 @@ def main():
 
   #Plotando gráfico de linhas
     plt.subplot(1, 2, 1)
-Calculando médias das séries e plotando gráfico de barras
+
 
     plt.xlabel('Valores de entrada')
     plt.ylabel('Amostragem')    
